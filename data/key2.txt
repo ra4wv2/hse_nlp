@@ -1,0 +1,11 @@
+contour plot
+word embeddings
+in a 2-D dimensional graph
+astrology
+meteorology
+physics
+coordinates into a matrix structure
+generating a contour graph
+labeling words
+presentations
+research papers

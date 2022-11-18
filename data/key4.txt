@@ -1,0 +1,14 @@
+interactive data analysis
+data exploration
+lambda expressions
+data visualization
+professional dashboarding
+data engineering
+machine learning models
+big data
+spark
+dplyr
+sparklyr
+sparksql
+deep learning
+rstudio
